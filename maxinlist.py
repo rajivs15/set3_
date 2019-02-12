@@ -1,4 +1,4 @@
-n=int(input())
+N=int(input())
 a=list(map(int,input().split()))
-if n== len(a):
+if N== len(a):
     print (max(a))
